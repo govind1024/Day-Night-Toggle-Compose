@@ -14,10 +14,10 @@ This Android app demonstrates a reusable and animated theme toggle button, inspi
 ## 📽 Demo
 
 https://github.com/govind1024/Day-Night-Toggle-Compose/blob/master/preview_toggle.gif
-https://github.com/govind1024/Day-Night-Toggle-Compose/blob/master/switch_toggle.gif
-![ezgif-1d20644442cc9a](https://github.com/user-attachments/assets/4e31430d-b181-41f4-ba34-01552d3c2ec5)
 
-![ezgif-17232ccac96813](https://github.com/user-attachments/assets/2b0c139d-75a6-4cc4-8693-18363b94fe6c)
+https://github.com/govind1024/Day-Night-Toggle-Compose/blob/master/switch_toggle.gif
+
+![ezgif-1d20644442cc9a](https://github.com/user-attachments/assets/4e31430d-b181-41f4-ba34-01552d3c2ec5)      ![ezgif-17232ccac96813](https://github.com/user-attachments/assets/2b0c139d-75a6-4cc4-8693-18363b94fe6c)
 
 
 ---
