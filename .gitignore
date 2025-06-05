@@ -1,15 +1,42 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+gitignore
+# IDE files and directories
+.idea/
+.gradle/
 local.properties
+*.iml
+*.hprof
+*.orig
+
+# Build files
+build/
+app/build/
+captures/
+
+# Keystore files (should be kept private)
+*.jks
+*.keystore
+
+# Google services (if you downloaded it manually and don't want to commit)
+# google-services.json
+
+# Maven local repository
+.m2/
+
+# Gradle daemon logs
+/gradle/daemon/
+
+# Test results
+/build/reports/
+/build/test-results/
+
+# Android Studio profiling data
+*.snapshot
+*.lock
+*.ap_
+
+# Log files
+*.log
+
+# Misc
+.DS_Store
+Thumbs.db
