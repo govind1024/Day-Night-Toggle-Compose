@@ -17,7 +17,7 @@ https://github.com/govind1024/Day-Night-Toggle-Compose/blob/master/preview_toggl
 
 https://github.com/govind1024/Day-Night-Toggle-Compose/blob/master/switch_toggle.gif
 
-![ezgif-1d20644442cc9a](https://github.com/user-attachments/assets/4e31430d-b181-41f4-ba34-01552d3c2ec5)      ![ezgif-17232ccac96813](https://github.com/user-attachments/assets/2b0c139d-75a6-4cc4-8693-18363b94fe6c)
+![ezgif-1d20644442cc9a](https://github.com/user-attachments/assets/4e31430d-b181-41f4-ba34-01552d3c2ec5)               ![ezgif-17232ccac96813](https://github.com/user-attachments/assets/2b0c139d-75a6-4cc4-8693-18363b94fe6c)
 
 
 ---
@@ -49,6 +49,21 @@ https://github.com/govind1024/Day-Night-Toggle-Compose/blob/master/switch_toggle
 ## 📦 Getting Started
 
 1. **Clone the repository**
-
-   ```bash
+2. ```bash
    git clone https://github.com/govind1024/Day-Night-Toggle-Compose.git
+   
+3. Open in Android Studio Hedgehog+
+4. Run on device/emulator (API 23+)
+
+---
+
+## **🙌 Contributing / License**
+
+```markdown
+## 🙌 Contributing
+
+PRs and suggestions are welcome! Just open an issue or fork the repo 🚀
+
+## 📄 License
+
+This project is open source under the [MIT License](LICENSE).
