@@ -57,13 +57,50 @@ https://github.com/govind1024/Day-Night-Toggle-Compose/blob/master/switch_toggle
 
 ---
 
+## 📁 Folder Structure
+ 📁 app/
+ 
+  ┣ 📄 MainActivity.kt
+  
+  ┣ 📄 ThemeToggleButton.kt 
+  
+  ┣ 📄 Utils.kt
+  
+  ┣ 📄 ThemeToggleSwitch.kt
+  
+  ┣ 📄 CircularRevealTheme.kt
+  
+  ┣ 📄 AppThemeSwitcherApp.kt
+  
+  ┗ 📄 README.md
+  
+
+---
+## 💡 How It Works
+- ThemeToggleButton is a composable that observes system theme.
+- On toggle click:
+  - It calculates the toggle's center.
+  -  Starts circular animation using Canvas.
+  -  Plays sound FX (optional).
+  - Updates local isDark state to switch the theme.
+ - Supports reuse via parameters like:
+   - onThemeToggle: ((Boolean) -> Unit)
+   - soundEnabled: Boolean
+
+---
+
 ## **🙌 Contributing / License**
 
 ```markdown
 ## 🙌 Contributing
 
 PRs and suggestions are welcome! Just open an issue or fork the repo 🚀
+Contributions, issues, and feature requests are welcome!
+
+Feel free to ⭐️ the repo if you find it useful.
 
 ## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
